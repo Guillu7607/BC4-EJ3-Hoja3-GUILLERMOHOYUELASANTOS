@@ -1,0 +1,2 @@
+El programa se encarga de crear una conexión a la base de datos con el nombre y la contraseña indicada en el código. También creara la tabla incidencias para la realización del ejercicio.
+Se creará un menú donde se realizará una operación CRUD respecto a la tabla INCIDENCIAS. Se puede insertar una incdencia, se pueden mostrar todas las incidencias, se pueden ver las incidencias de cada ciclista o se puede salir del programa.
